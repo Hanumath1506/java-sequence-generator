@@ -24,7 +24,6 @@ src/
 ## How to Run
 
 ### Compile
-```bash
 javac src/SequenceGenerator.java
 
 ### Run
